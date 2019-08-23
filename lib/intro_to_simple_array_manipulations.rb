@@ -1,5 +1,4 @@
 using_push = ["allen", "zolboo"]
-new = "lilo"
 using_push.push("lilo")
 
 using_unshift = ["allen", "zolboo", "lilo"]
