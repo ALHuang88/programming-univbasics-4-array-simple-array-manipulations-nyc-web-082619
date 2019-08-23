@@ -1,5 +1,6 @@
 using_push = ["allen", "zolboo"]
-using_push.push("lilo")
+new = "lilo"
+using_push.push(new)
 
 using_unshift = ["allen", "zolboo", "lilo"]
 using_unshift.unshift("coco")
